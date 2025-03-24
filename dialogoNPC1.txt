@@ -3,3 +3,5 @@
 O quizás explorar un poco.
 
 ¿Te gustaría acompañarme a la taberna? Podrías escuchar algunas historias interesantes de los aldeanos.
+
+["dialogoNPC-NO"]
